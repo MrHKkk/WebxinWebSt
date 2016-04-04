@@ -8,5 +8,12 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/common_env_lib"/>
+	<classpathentry kind="lib" path="D:/jar/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/jar/dom4j-1.6.1/dom4j-1.6.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate3.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/dbcp"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring3"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
