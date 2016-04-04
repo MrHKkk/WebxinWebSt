@@ -101,7 +101,7 @@
 		</property>
 	</bean>
 	
-	<bean class="com.kd.app.web.service.impl.EventImpl" id="eventDAO">
+	<bean class="com.kd.app.web.service.impl.EventDAOImpl" id="eventDAO">
 		<property name="sessionFactory" ref="sessionFactory"></property>
 	</bean>
 
